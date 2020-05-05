@@ -1,13 +1,8 @@
-# COVID-19-CaseStudy-and-Predictions [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/LICENSE)
 This repository is a case study, analysis, and visualization of COVID-19 Pandemic spread along with prediction models.
 # Open to All
 If you want to contribute to the notebook or any feedback and suggestions are most welcome. 
- 
-# Kaggle
-[Follow me on Kaggle](https://www.kaggle.com/tarunkr)<br>
-[View Latest Version](https://www.kaggle.com/tarunkr/covid-19-case-study-analysis-viz-comparisons)
 
-Silent Features 
+Salient Features 
 ================
 * Several visualizations of a time-series dataset of covid19 cases.   
 * Case Study of the World and few countries, including India. 
@@ -37,7 +32,7 @@ Installation
 ================
 * Clone this repository:  
 ```console
-git clone https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions
+git clone https://github.com/gautham1995/COVID-19-CaseStudy-and-Predictions
 ```
 or click `Download ZIP` in right panel of repository and extract it.
 * Open latest version of notebook in **Jupyter Notebook**.
@@ -46,26 +41,26 @@ or click `Download ZIP` in right panel of repository and extract it.
 Visualization Preview
 ================
 
-![COIVD-19-World](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/COIVD-19-World.png)
-![Daily Cases](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/daily%20confirmed%20cases%20global.png)
-![Trend Comparison with India (confirmed)](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/Trend%20Comparison%20with%20India%20(confirmed).png)
+![COIVD-19-World](https://github.com/gautham1995/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/COIVD-19-World.png)
+![Daily Cases](https://github.com/gautham1995/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/daily%20confirmed%20cases%20global.png)
+![Trend Comparison with India (confirmed)](https://github.com/gautham1995/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/Trend%20Comparison%20with%20India%20(confirmed).png)
 
 Prediction Preview
 ================
 Global Conformed Case Prediction
-![Prediction Curve-Confirmed](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/Prediction%20Curve-Confirmed.png)
+![Prediction Curve-Confirmed](https://github.com/gautham1995/COVID-19-CaseStudy-and-Predictions/blob/master/v61/output/Prediction%20Curve-Confirmed.png)
 
 ### Prediction table
 Prediction using the ML model for both global confirmed cases and deaths.<br>
-![Prediction _table](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/v61/2020-04-15%2003_10_17-COVID-19%20Case%20Study%20-%20Analysis%2C%20Viz%20%26%20Comparisons%20_%20Kaggle.png)
+![Prediction _table](https://github.com/gautham1995/COVID-19-CaseStudy-and-Predictions/blob/master/v61/2020-04-15%2003_10_17-COVID-19%20Case%20Study%20-%20Analysis%2C%20Viz%20%26%20Comparisons%20_%20Kaggle.png)
 
 <b>To get full insights and visualization see the notebook on KAGGLE [View Latest Version Notebook](https://www.kaggle.com/tarunkr/covid-19-case-study-analysis-viz-comparisons) </b>
 # Authors
-Tarun Kumar
+Tarun Kumar, Gautham Asok
 
 #### Authors' Note:<br>
 The author has tried to get the best result using the dataset. The author is not responsible for any misuse. Any commercial use of the code is not permissible. Read Licence carefully.
 If you want to contribute to the notebook or any feedback and suggestions are most welcome.
 
 # Licence
-The MIT License, see the included, see the [License](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/LICENSE) file.
+The MIT License, see the included, see the [License](https://github.com/gautham1995/COVID-19-CaseStudy-and-Predictions/blob/master/LICENSE) file.
